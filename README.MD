@@ -1,6 +1,12 @@
 Repositorio para almacenear el material e información para el workshop práctico de reinforcement learning (Guatemala, 2020).
 
 
+## Sesiones y Talleres
+
+* Sesion 1 (20 febrero 2020) :
+	* [Evento en Meetup](https://www.meetup.com/es-ES/Inteligencia-Artificial-Guatemala/events/268539264/?_xtd=gatlbWFpbF9jbGlja9oAJDRmZTEwYTUxLWMwMDMtNDE2Ny05MDI3LTQ2YWY1MGVhMzU1NQ)
+	* [Evento en Facebook](https://www.facebook.com/events/2981181955239843/)
+
 ## Material y Referencias
 
 * Libro de referencia oficial (Gratuito) : [Reinforcement Learning: An Introduction,Sutton and Barto](http://incompleteideas.net/book/RLbook2018.pdf)
