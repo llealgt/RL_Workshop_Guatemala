@@ -6,6 +6,7 @@ Repositorio para almacenear el material e información para el workshop práctic
 * Sesion 1 (20 febrero 2020) :
 	* [Evento en Meetup](https://www.meetup.com/es-ES/Inteligencia-Artificial-Guatemala/events/268539264/?_xtd=gatlbWFpbF9jbGlja9oAJDRmZTEwYTUxLWMwMDMtNDE2Ny05MDI3LTQ2YWY1MGVhMzU1NQ)
 	* [Evento en Facebook](https://www.facebook.com/events/2981181955239843/)
+	* [Cuaderno de Jupyter en COlab](https://colab.research.google.com/drive/1eqNIVQTMRp5kbhkNOoi120BtXydoBzaf) 
 
 ## Material y Referencias
 
