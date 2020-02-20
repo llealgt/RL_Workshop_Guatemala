@@ -1,5 +1,8 @@
 Repositorio para almacenear el material e información para el workshop práctico de reinforcement learning (Guatemala, 2020).
 
+## Slides Introducción al Workshop:
+
+[Presentación/Introducción](Slides/intro_RL_Workshop.pptx)
 
 ## Sesiones y Talleres
 
@@ -7,6 +10,7 @@ Repositorio para almacenear el material e información para el workshop práctic
 	* [Evento en Meetup](https://www.meetup.com/es-ES/Inteligencia-Artificial-Guatemala/events/268539264/?_xtd=gatlbWFpbF9jbGlja9oAJDRmZTEwYTUxLWMwMDMtNDE2Ny05MDI3LTQ2YWY1MGVhMzU1NQ)
 	* [Evento en Facebook](https://www.facebook.com/events/2981181955239843/)
 	* [Cuaderno de Jupyter](Notebooks/Lecture1_IntroRL.ipynb) 
+	* [Slides Introducción](Slides/intro_RL_Workshop.pptx)
 
 ## Material y Referencias
 
