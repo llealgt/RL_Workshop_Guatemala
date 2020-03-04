@@ -11,6 +11,7 @@ Repositorio para almacenear el material e información para el workshop práctic
 	* [Evento en Facebook](https://www.facebook.com/events/2981181955239843/)
 	* [Cuaderno de Jupyter](Notebooks/Lecture1_IntroRL.ipynb) 
 	* [Slides Introducción](Slides/intro_RL_Workshop.pptx)
+	* [Video](https://www.youtube.com/watch?v=ewPGcR7BKeE)
 
 ## Material y Referencias
 
